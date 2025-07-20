@@ -5,78 +5,91 @@
 📧 kushagrathakur88097@gmail.com | 📱 +91-6307081930  
 🔗 [LinkedIn](https://in.linkedin.com/in/kushagra-s-7b383a227) | [LeetCode](https://leetcode.com/u/_roronoa_zoro/) | [GitHub](https://github.com/kushagrasingh21)
 
+![Profile Banner](assets/banner.png)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat&logo=mongodb)
+![Express.js](https://img.shields.io/badge/-Express.js-grey?style=flat&logo=express)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+
 ---
 
 ## 🎯 Career Objective
 
-Dedicated quick learner seeking an opportunity to acquire and implement experience in Computer Science. I aim to build a strong technical foundation while contributing to organizational success.
+> Dedicated quick learner seeking an opportunity to apply and expand knowledge in the field of Computer Science. I aim to gain hands-on experience while aligning with organizational goals.
 
 ---
 
 ## 🎓 Education
 
 **Pranveer Singh Institute of Technology, Kanpur**  
-_Bachelor of Technology – Computer Science_  
 📅 Dec 2022 – May 2026  
 📊 CGPA: **7.31** (Till 5th Semester)  
-**Courses:** Operating Systems, Data Structures 
-& Algorithms , DBMS ,OOPs etc
+_Courses: Operating Systems, Data Structures & Algorithms,DBMA ,OOPs etc
+
+
 ---
 
-## 🧑‍💻 Experience
+## 💼 Experience
 
-### 💼 Software Development Intern – Innodata Inc. *(Remote)*  
+### 🔹 Software Development Intern – Innodata Inc. *(Remote)*  
 📅 Feb 2025 – Mar 2025  
-- Developed a scalable **Resume Parser Application** processing 100+ resumes using the **MERN stack**  
-- Built with **MongoDB, Express.js, Node.js, Vue.js**  
-- Worked in an Agile team environment with full lifecycle exposure
-
----
-
-## 💡 Skills
-
-**Languages:** JavaScript, SQL, Java, Python, C, HTML, CSS  
-**Frameworks:** ReactJS, NodeJS, ExpressJS, MongoDB  
-**Tools:** Git, MySQL, SQLite, Jupyter, Google Colab  
-**Platforms:** Linux, Web, Windows  
-**Soft Skills:** Leadership, Public Speaking, Event Management, Time Management
+- Developed a scalable Resume Parser Application (100+ resumes)  
+- Tech Stack: **MongoDB, Express.js, Node.js, Vue.js**  
+- Agile-based team collaboration and delivery  
 
 ---
 
 ## 🚀 Projects
 
-### 🧠 Sentiment Analysis (Ongoing)  
-**Python, Flask, NLP, MongoDB**  
-- Browser extension to extract and analyze e-commerce reviews  
-- Classifies sentiment (Positive, Negative, Neutral)  
-- Implements keyword extraction and sentiment scoring  
-- Helps businesses monitor feedback
+### 📈 Sentiment Analysis (Ongoing)
+🧠 **Python | Flask | NLP | MongoDB**
+
+- 📌 Browser extension for analyzing product reviews
+- 💬 Classifies sentiment: Positive, Negative, Neutral
+- 🧮 NLP scoring + keyword extraction
+
+![Sentiment Analysis](assets/sentiment_demo.gif)
 
 ---
 
 ### 💬 Connexa – Real-time Chat App  
-**Node.js, WebSocket, MongoDB**  
 🔗 [GitHub Repo](https://github.com/kushagrasingh21/Connexa)  
-📅 Oct 2024 – Dec 2024  
-- Supports private/group chat, online indicators, JWT auth  
-- Built responsive UI, optimized message retrieval with indexing
+🧩 **Node.js | WebSocket | MongoDB**
+
+- Group & private messaging with JWT authentication
+- Typing indicators, real-time presence
+- Indexed messages for fast search
+
+![Connexa Preview](assets/connexa_screenshot.png)
 
 ---
 
 ### 🛒 OnePlace – E-commerce Platform  
-**ReactJS, Node.js, MySQL**  
 🔗 [GitHub Repo](https://github.com/kushagrasingh21/Oneplace)  
-📅 Jan 2025 – Mar 2025  
-- Full-featured shopping site with Stripe payments  
-- Admin dashboard with role-based access, order/inventory management
+🛠️ **ReactJS | Node.js | MySQL**
+
+- Fully functional store with cart, payment, and dashboard
+- Admin panel with order tracking and inventory control
+- Stripe integration for payments
+
+![OnePlace Preview](assets/oneplace_screenshot.png)
 
 ---
 
 ## 🏆 Achievements
 
-- 🧠 Solved **500+ coding problems** on LeetCode, CodeChef, HackerRank  
+- 🧠 Solved 500+ coding problems (LeetCode, HackerRank, CodeChef)  
 - 📈 LeetCode Rating: **1400+**  
-- ⭐ 5-Star HackerRank Java Coder
+- ⭐ 5⭐ HackerRank Java badge
 
 ---
 
@@ -90,13 +103,13 @@ _Bachelor of Technology – Computer Science_
 
 ## 📬 Contact Me
 
-Feel free to reach out for collaborations, internships, or project discussions:
+📧 kushagrathakur88097@gmail.com  
+📱 +91-6307081930  
+🌐 [LinkedIn](https://in.linkedin.com/in/kushagra-s-7b383a227)  
+💻 [GitHub](https://github.com/kushagrasingh21)
 
-- 📧 kushagrathakur88097@gmail.com  
-- 📞 +91-6307081930  
-- 🌐 [LinkedIn](https://in.linkedin.com/in/kushagra-s-7b383a227)  
-- 💻 [GitHub](https://github.com/kushagrasingh21)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kushagrasingh21)
 
 ---
 
-> ⭐ If you like my work, give a star on [GitHub](https://github.com/kushagrasingh21)!
+> ⭐ If you liked this profile or my projects, give a ⭐ to the repos!
